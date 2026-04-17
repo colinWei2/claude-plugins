@@ -5,7 +5,10 @@
     {
       "name": "my-first-plugin",
       "description": "测试工具包",
-      "repository": "https://github.com/colinWei2/my-first-plugin",
+      "source": {
+        "source": "github",
+        "repo": "colinWei2/my-first-plugin"
+      },
       "version": "1.0.0"
     }
   ]
