@@ -1,6 +1,10 @@
 {
   "name": "my-marketplace",
   "description": "内部插件市场",
+  "owner": {
+      "name": "colinWei2",
+      "email": "user@example.com"
+    },
   "plugins": [
     {
       "name": "my-first-plugin",
